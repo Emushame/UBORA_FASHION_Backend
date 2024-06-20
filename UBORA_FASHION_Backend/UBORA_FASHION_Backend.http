@@ -1,0 +1,6 @@
+@UBORA_FASHION_Backend_HostAddress = http://localhost:5272
+
+GET {{UBORA_FASHION_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
